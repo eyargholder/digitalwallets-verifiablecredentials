@@ -1,1 +1,1 @@
-# verifiable-credentials
+# digital wallets - verifiable-credentials
