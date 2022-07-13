@@ -2,10 +2,10 @@
 
 The objective of this session is for attendees to comprehend W3C Verifiable Credentials
 
-Samples of Behavior
+Samples of Behavior <br />
 
-Define the W3C Verifiable Credential (VC)
-Define the W3C Decentralized Identifier (DID)
+a. Define the W3C Verifiable Credential (VC)
+b. Define the W3C Decentralized Identifier (DID)
 Identify the properties of a Verifiable Credential
 Compare and Contrast Verifiable Credentials to other Credentials
 Explain how Verifiable Credentials may impact USAF ICAM Programs and Systems
